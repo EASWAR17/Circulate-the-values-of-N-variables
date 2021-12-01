@@ -26,7 +26,7 @@ def circulate():
 ```
 
 ## Output:
-![output](r1.png)
+![output](./r1.PNG)
 
 ## Result:
 Thus the program to circulate the values in list is done successully :)
